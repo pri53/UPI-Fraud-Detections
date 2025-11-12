@@ -42,8 +42,6 @@ Random Forest
 
 XGBoost (optional improvement)
 
-Isolation Forest (for anomaly detection)
-
 Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, AUC-ROC
 
 # ⚙️ Tech Stack
