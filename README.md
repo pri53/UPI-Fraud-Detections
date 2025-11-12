@@ -17,3 +17,40 @@ It combines fraud prediction, user assistance, and awareness in a single web app
 📊 Real-Time Alerts – Notifies users instantly when a fraudulent transaction is detected.
 
 🧩 Modular Architecture – Easy to extend or integrate with banking APIs in the future.
+
+# Modules:
+
+Data Collection and Preprocessing
+
+Fraud Detection Engine
+
+Risk Scoring System
+
+Chatbot Assistant
+
+User Alerts and Notifications
+
+Logging & Reporting
+
+# 🧮 Machine Learning Models Used
+
+Logistic Regression
+
+Decision Tree
+
+Random Forest
+
+XGBoost (optional improvement)
+
+Isolation Forest (for anomaly detection)
+
+Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, AUC-ROC
+
+# ⚙️ Tech Stack
+
+Frontend	: React.js, HTML, CSS, JavaScript
+Backend   :	Flask (Python)
+ML Libraries  :	scikit-learn, pandas, numpy, joblib
+Chatbot	NLP (NLTK / spaCy), Flask integration
+Database : MySQL
+Version Control	Git & GitHub
