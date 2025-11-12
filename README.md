@@ -1,1 +1,19 @@
-# UPI-Fraud-Detections
+# 🧠 UPI Fraud Detection Using Machine Learning
+# 📚 Overview
+
+This project aims to build an intelligent fraud detection system for Unified Payments Interface (UPI) transactions using machine learning and an AI-powered chatbot.
+It combines fraud prediction, user assistance, and awareness in a single web application, providing both security and education to users about safe digital payment practices.
+
+# 🚀 Features
+
+💳 Fraud Detection Model – Detects suspicious UPI transactions using machine learning.
+
+🤖 Chatbot Assistant – Provides real-time guidance and safety tips for users.
+
+🌐 Web Interface (React.js) – A responsive frontend for user interaction.
+
+🔥 Flask Backend API – Hosts ML model for prediction and chatbot integration.
+
+📊 Real-Time Alerts – Notifies users instantly when a fraudulent transaction is detected.
+
+🧩 Modular Architecture – Easy to extend or integrate with banking APIs in the future.
