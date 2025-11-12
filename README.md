@@ -52,3 +52,15 @@ ML Libraries  :	scikit-learn, pandas, numpy, joblib
 Chatbot	NLP (NLTK / spaCy), Flask integration
 Database : MySQL
 Version Control	Git & GitHub
+
+# Images
+![Screenshot 1](https://github.com/pri53/UPI-Fraud-Detections/blob/main/image1.png?raw=true)
+
+![Screenshot 2](https://github.com/pri53/UPI-Fraud-Detections/blob/main/image2.png?raw=true)
+
+![Screenshot 3](https://github.com/pri53/UPI-Fraud-Detections/blob/main/image3.png?raw=true)
+
+![Screenshot 4](https://github.com/pri53/UPI-Fraud-Detections/blob/main/image4.png?raw=true)
+
+
+
